@@ -6,7 +6,5 @@ draft: false
 
 Well, on the other hand, this post already has a title above. Then I should not add a Headline again, saying exactly the same.
 
-### That is the next headline
-here goes some additional stuff.
-
-### That is another cool headline
+### If you would like to know a little about be
+Then please have a look on [my about](/about)
