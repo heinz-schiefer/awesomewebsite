@@ -1,0 +1,25 @@
+{
+  "name": "awesome-static-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "node deploy.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heinz-schiefer/awesomewebsite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heinz-schiefer/awesomewebsite/issues"
+  },
+  "homepage": "https://github.com/heinz-schiefer/awesomewebsite#readme",
+  "dependencies": {
+    "glob": "^7.2.0",
+    "ssh2-sftp-client": "^7.2.1",
+    "upath": "^2.0.1"
+  }
+}
